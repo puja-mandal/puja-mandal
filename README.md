@@ -10,11 +10,11 @@
 - 🌱 I'm currently learning **Web and Cloud Technologies, and Databases**
 - 👨‍💻 I'm open to work globally
 - 📫 Feel free to reach me at **pujamandal23232424@gmail.com**
-- ⚡ I enjoy **Music,Dance and Travelling**
+- ⚡ I enjoy **Music, Dance and Travelling**
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pujamandal/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puja-mandal-a4960a359/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/puja-mandal)
 
 ## Languages and Tools
